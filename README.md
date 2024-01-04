@@ -3,6 +3,7 @@
 成果一(timeseries.py, lstm.py)
 
 一、目的
+
 利用機器學習方法預測點散熱膠的機台出現點膠異常之時間點，以便提早準備與維護機台減少成本消耗。
 
 二、方法
@@ -20,6 +21,7 @@
 
 
 成果二(passfail.py)
+
 一、目的
 利用機器學習方法判斷點膠成功與否，以輔助人工判斷。
 
@@ -32,5 +34,5 @@
 利用oversampling的方法與SVM的結果最佳，F1score=98%，Accuracy=99%。
 ![image](https://github.com/YoweioY/PTI_data_analysis_intern/assets/91478099/e5f19ddf-22f7-4d8c-ba6e-1fe5656c4a48)
 
-
+詳細結果可參閱ppt檔
 # 本成果不提供資料
