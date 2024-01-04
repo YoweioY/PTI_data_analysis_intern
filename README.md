@@ -31,8 +31,8 @@
 3. 利用膠體位置與面積作為input，利用SVM與Logistic迴歸預測點膠成功與否。
 
 三、結果
-利用oversampling的方法與SVM的結果最佳，F1score=98%，Accuracy=99%。
-![image](https://github.com/YoweioY/PTI_data_analysis_intern/assets/91478099/e5f19ddf-22f7-4d8c-ba6e-1fe5656c4a48)
+利用oversampling的方法與SVM的結果最佳，F1score=98%，Accuracy=99%。未來可加入更多資料與增加fail資料量將模型部署在現場中。
+
 
 詳細結果可參閱ppt檔
 # 本成果不提供資料
